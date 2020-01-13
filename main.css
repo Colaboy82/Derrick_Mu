@@ -123,3 +123,10 @@ hr {
     border-width: 1px;
     width:50%;
 }
+
+#center{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
